@@ -1,0 +1,45 @@
+﻿{
+  "books": [
+    {
+      "Title": "En titel 1",
+      "ID": 1,
+      "Author": "En författare",
+      "YearPublished": 1999,
+      "ISBN": 1111,
+      "Reviews": [ 3, 4 ]
+    },
+    {
+      "Title": "En titel 2",
+      "ID": 1,
+      "Author": "En författare",
+      "YearPublished": 1952,
+      "ISBN": 1111,
+      "Reviews": [ 3, 4 ]
+    },
+    {
+      "Title": "En titel 3",
+      "ID": 1,
+      "Author": "En författare",
+      "YearPublished": 2001,
+      "ISBN": 1111,
+      "Reviews": [ 3, 4 ]
+    }
+  ],
+  "authors": [
+    {
+      "Name": "Kent",
+      "ID": 1,
+      "Country": "Norway"
+    },
+    {
+      "Name": "Emma",
+      "ID": 2,
+      "Country": "Sweden"
+    },
+    {
+      "Name": "Ralph",
+      "ID": 3,
+      "Country": "USA"
+    }
+  ]
+}
